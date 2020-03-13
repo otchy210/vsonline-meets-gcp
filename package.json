@@ -1,0 +1,22 @@
+{
+  "name": "vsonline-meets-gcp",
+  "version": "1.0.0",
+  "description": "## TODO",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otchy210/vsonline-meets-gcp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otchy210/vsonline-meets-gcp/issues"
+  },
+  "homepage": "https://github.com/otchy210/vsonline-meets-gcp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
