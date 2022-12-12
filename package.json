@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/otchy210/vsonline-meets-gcp#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
